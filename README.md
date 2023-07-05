@@ -1,4 +1,4 @@
-# Sys-analysis-design-project
+# Sys-Analysis-&-Design-Project
 Project snippets for my system analysis &amp; design course.
 
 # Table Booking UI Design Admin version
