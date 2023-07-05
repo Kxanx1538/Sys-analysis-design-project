@@ -1,7 +1,7 @@
 # Sys-Analysis-&-Design-Project
 Project snippets i did for my system analysis &amp; design course.
 
-# Table Booking UI Design Admin version
+# Table Booking Admin UI Prototype
 
 
 ![Prototyping-Admin Dashboard drawio](https://github.com/Kxanx1538/Sys-analysis-design-project/assets/121854477/d297910b-5054-46f6-aae9-cf08f027bec0)
@@ -12,7 +12,7 @@ Project snippets i did for my system analysis &amp; design course.
 
 
 
-# Table Booking UI Design End User version
+# Table Booking End User UI Prototype
 
 
 ![Prototyping-User Dashboard drawio](https://github.com/Kxanx1538/Sys-analysis-design-project/assets/121854477/6852bda2-1fd1-453c-88fe-0bc2f52960b8)
